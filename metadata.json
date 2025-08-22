@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Finance Tracker",
+  "description": "A modern and intuitive application to track, monitor, and analyze your spending and income. Visualize your financial habits with interactive charts and maintain a clear overview of your transactions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
